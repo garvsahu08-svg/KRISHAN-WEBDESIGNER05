@@ -1,0 +1,12 @@
+{
+  "name": "krishan-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Krishan – web designer & developer portfolio (static site, zero dependencies)",
+  "scripts": {
+    "build": "node -e \"console.log('Static site – no build step')\"",
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" }
+}
